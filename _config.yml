@@ -56,11 +56,4 @@ email: "contato@snappydroid.com.br"
 
 
 
-# Enable minification SASS
 
-sass:
-  style: compressed
-
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
